@@ -1,0 +1,41 @@
+Jenis Pekerjaan: Pemasangan Sensor
+Lokasi: [Lokasi spesifik]
+Tanggal Mulai: [Tanggal]
+Tanggal Selesai (Estimasi): [Tanggal]
+
+Nama Teknisi: [Nama]
+Jabatan: Teknisi Sensor
+Penyelia: [Nama]
+Jabatan: [Jabatan]
+
+Potensi Bahaya:
+
+- Terkena sengatan listrik
+- Jatuh dari ketinggian
+- Terkena benda tajam
+- Terpapar bahan kimia berbahaya (jika ada)
+  Tingkat Risiko: Tinggi/Sedang/Rendah
+  Tindakan Pencegahan:
+- Menggunakan APD lengkap (helm, sarung tangan, sepatu safety, dll)
+- Menggunakan alat bantu kerja yang aman
+- Melakukan pengujian peralatan sebelum digunakan
+- Melaporkan kondisi yang tidak aman
+
+Peralatan: Obeng, tang, meteran, bor, dll
+Bahan: Kabel, sensor, konektor, dll
+
+Izin Kerja: [Ya/Tidak]
+Izin Masuk Area: [Ya/Tidak]
+Izin Penggunaan Peralatan: [Ya/Tidak]
+
+Penerangan: Cukup/Tidak Cukup
+Ventilasi: Baik/Kurang Baik
+Kondisi Lantai: Aman/Tidak Aman
+
+Langkah-langkah kerja secara detail dan berurutan
+
+Teknisi: [Tanda tangan dan tanggal]
+Penyelia: [Tanda tangan dan tanggal]
+Petugas K3: [Tanda tangan dan tanggal]
+
+[Ruang untuk mencatat perubahan atau kejadian selama pekerjaan berlangsung]
