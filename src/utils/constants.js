@@ -87,7 +87,7 @@ const en = {
     name: "Aldan Prayogi",
     role: "Automation & Control Systems Engineer",
     description:
-      "Engineer specializing in automotive manufacturing, industrial automation, and computer vision, with experience developing end-to-end solutions for production and quality inspection processes. Skilled in TPS-based problem solving, process analysis, root cause identification, and corrective action, with a strong understanding of manufacturing operations and continuous improvement. Experienced in developing AI-based visual inspection systems, industrial RFID solutions, and automation platforms to support quality, traceability, and production monitoring. Proven ability to achieve 93.70% detection accuracy and improve inspection processes through automation and data-driven solutions.",
+      "Electrical Automation Engineer with hands-on experience in industrial manufacturing, electrical systems, instrumentation, and automation. Skilled in troubleshooting electrical and control systems, PLC programming, instrumentation, sensor integration, preventive maintenance, and root cause analysis. Experienced in supporting industrial equipment and production processes through automation, monitoring, and data-driven solutions. Familiar with manufacturing operations and committed to maintaining equipment reliability while prioritizing safety, quality, and productivity.",
   },
   skills: {
     title: "Skills",
